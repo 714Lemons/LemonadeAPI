@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pytorch](https://img.shields.io/badge/Pytorch-Forecasting-orange)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 Welcome to LemonadeAPI, an advanced time series forecasting service leveraging PyTorch-Forecasting and Temporal Fusion Transformers. This project is currently in the early stages and focuses on forecasting stock prices.
 
